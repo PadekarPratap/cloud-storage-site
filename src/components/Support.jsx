@@ -7,7 +7,7 @@ import {GiProcessor} from "react-icons/gi"
 export default function Support() {
   return (
     <>
-    <div className='h-[700px] relative my-[5rem]'>
+    <div name="support" className='h-[700px] relative my-[5rem]'>
         {/* overlay */}
         <div className='absolute inset-0 bg-indigo-950/80'>
             <div className='text-white mt-12 md:mt-[5rem]'>

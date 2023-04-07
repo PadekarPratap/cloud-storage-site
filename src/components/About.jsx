@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div className='container mx-auto px-4 mb-[3rem]'>
+    <div name="about" className='container mx-auto px-4 mb-[3rem]'>
          <div className='w-full'> 
             <div className='mt-[3rem] md:mt-[8rem] mb-[2rem]'>
                 <h2 className='text-3xl md:text-5xl font-bold font-mono text-center'>Trusted by develpoers across the world</h2>
