@@ -5,7 +5,7 @@ import {AiFillInstagram} from 'react-icons/ai'
 
 export default function Footer() {
   return (
-    <div className='bg-slate-900 w-full flex items-center py-[5rem]'>
+    <div className='bg-slate-900 w-full py-[5rem]'>
         <div className='text-white container mx-auto px-4'>
             <div className='grid md:grid-cols-3 gap-10'>
                 <div className='md:col-span-2 grid grid-cols-2 lg:grid-cols-4 gap-8 items-center'>

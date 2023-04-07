@@ -3,7 +3,7 @@ import {ImPointRight} from "react-icons/im"
 
 export default function Platforms() {
   return (
-    <div className='container mx-auto px-3 my-20'>
+    <div name="platforms" className='container mx-auto px-3 my-20'>
         <div>
             <h2 className='text-3xl md:text-5xl font-bold text-center'>All-In-One-Platform</h2>
             <p className='text-xl text-slate-600 font-thin text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, error Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>

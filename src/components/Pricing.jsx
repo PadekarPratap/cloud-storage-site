@@ -4,7 +4,7 @@ import {BsCheck2} from "react-icons/bs"
 export default function Pricing() {
   return (
     <>
-    <div className='w-full min-h-[500px] bg-slate-900 relative'>
+    <div name="pricing" className='w-full min-h-[500px] bg-slate-900 relative'>
 
         {/* overlay  */}
         <div className='container mx-auto px-4 absolute inset-0'>
